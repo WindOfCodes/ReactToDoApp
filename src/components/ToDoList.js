@@ -1,5 +1,4 @@
 import react from "react";
-import { useState } from "react/cjs/react.development";
 import Todo from "./Todo"
 
 const ToDoList = ({ todos, setTodos, filteredTodos }) => {
